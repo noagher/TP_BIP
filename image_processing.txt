@@ -1,0 +1,7 @@
+SEgmentation : 
+
+pour les images au nv de grayescale --> segmentation ce fait au nv d un 
+
+critère sur l histograme : otsu binarization , li thresholding 
+
+voir les caractéristiques qui distingue un objet .
